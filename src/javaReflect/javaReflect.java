@@ -12,6 +12,10 @@ public class javaReflect {
         System.out.println(c.hashCode());
         System.out.println("for github testing");
         System.out.println("some other change");
+        System.out.println("some other change");
+        System.out.println("some other change");
+        System.out.println("some other change");
+        System.out.println("some other change");
 
     }
 
